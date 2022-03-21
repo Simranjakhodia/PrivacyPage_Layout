@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  padding: 10px 0px;
+  margin-top: 15px;
+  background-color: white;
+  width:23rem;
+}
+body{
+  background-color: rgb(204, 204, 204);
+}
+.app {
+  
+  width: 23rem;
+  margin: auto;
+}
+
+.container span {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.content {
+  background-color: white;
+  padding: 0px;
+  width: 23rem;
+}
